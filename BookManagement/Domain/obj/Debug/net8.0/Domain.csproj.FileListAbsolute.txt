@@ -1,0 +1,22 @@
+C:\Users\folariu\source\repos\BookManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\folariu\source\repos\BookManagement\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\folariu\source\repos\BookManagement\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\folariu\source\repos\BookManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Denisa Golache\Desktop\facultate\ANUL 3\.NET\BookManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Denisa Golache\Desktop\facultate\ANUL 3\.NET\BookManagement\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Denisa Golache\Desktop\facultate\ANUL 3\.NET\BookManagement\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Denisa Golache\Desktop\facultate\ANUL 3\.NET\BookManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denisa Golache\Desktop\facultate\ANUL 3\.NET\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Denisa Golache\Desktop\facultate\ANUL 3\.NET\BookManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Denisa Golache\Desktop\facultate\ANUL 3\.NET\BookManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Denisa Golache\Desktop\facultate\ANUL 3\.NET\BookManagement\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Denisa Golache\Desktop\facultate\ANUL 3\.NET\BookManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Denisa Golache\Desktop\facultate\ANUL 3\.NET\BookManagement\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Denisa Golache\Desktop\facultate\ANUL 3\.NET\BookManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
